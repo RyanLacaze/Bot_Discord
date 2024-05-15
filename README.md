@@ -1,6 +1,10 @@
 # Bot_Discord
 Bot Discord permettant des slash commandes personnalisées !
 
+![alt text](https://imageshack.com/i/pmD7idzop)
+
+
+
 Le fichier "config.js" contient le token du bot discord, il faut savoir que chaque bot discord possède son propre token, n'allez pas recopier celui de mon code.
 
 Toutes les slash commands seront dans le dossier "Commandes".
