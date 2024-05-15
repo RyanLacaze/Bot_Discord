@@ -1,7 +1,7 @@
 # Bot_Discord
 Bot Discord permettant des slash commandes personnalisées !
 
-![alt text](https://imageshack.com/i/pmD7idzop)
+![alt text](https://imagizer.imageshack.com/v2/991x223q70/r/922/D7idzo.png)
 
 
 
