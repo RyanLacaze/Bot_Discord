@@ -1,9 +1,14 @@
 # Bot_Discord
 Bot Discord permettant des slash commandes personnalisées !
 
+1- MCD
 ![alt text](https://imagizer.imageshack.com/v2/991x223q70/r/922/D7idzo.png)
 
+2- MLD
+![alt text](https://imagizer.imageshack.com/v2/1536x286q90/r/924/QJAq4Z.png)
 
+3- MPD
+![alt text](https://imagizer.imageshack.com/v2/1536x308q90/r/924/SEYnCZ.png)
 
 Le fichier "config.js" contient le token du bot discord, il faut savoir que chaque bot discord possède son propre token, n'allez pas recopier celui de mon code.
 
