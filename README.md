@@ -4,7 +4,7 @@ Bot Discord permettant des slash commandes personnalisées !
 Avant de créer le bot Dicord, je vais représenter la base de données que j'utiliserai sous fome de schéma (MCD, MLD, MPD).
 
 1- MCD
-![alt text](https://imagizer.imageshack.com/v2/991x223q70/r/922/D7idzo.png)
+(![MCD bot dicord](https://github.com/RyanLacaze/Bot_Discord/assets/157478500/3a81db2f-0d69-4735-8be0-c8461a218755)
 
 2- MLD
 ![alt text](https://imagizer.imageshack.com/v2/1536x286q90/r/924/QJAq4Z.png)
