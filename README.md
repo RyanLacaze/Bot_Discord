@@ -5,7 +5,7 @@ Avant de créer le bot Dicord, je vais représenter la base de données que j'ut
 
 1- MCD de la base de données
 
-(![MCD bot dicord](https://github.com/RyanLacaze/Bot_Discord/assets/157478500/3a81db2f-0d69-4735-8be0-c8461a218755)
+![MCD bot dicord](https://github.com/RyanLacaze/Bot_Discord/assets/157478500/3a81db2f-0d69-4735-8be0-c8461a218755)
 
 2- MLD de la base de données
 
