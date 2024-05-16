@@ -1,6 +1,8 @@
 # Bot_Discord
 Bot Discord permettant des slash commandes personnalisées !
 
+Avant de créer le bot Dicord, je vais représenter la base de données que j'utiliserai sous fome de schéma (MCD, MLD, MPD).
+
 1- MCD
 ![alt text](https://imagizer.imageshack.com/v2/991x223q70/r/922/D7idzo.png)
 
@@ -10,9 +12,15 @@ Bot Discord permettant des slash commandes personnalisées !
 3- MPD
 ![alt text](https://imagizer.imageshack.com/v2/1536x308q90/r/924/SEYnCZ.png)
 
-Le fichier "config.js" contient le token du bot discord, il faut savoir que chaque bot discord possède son propre token, n'allez pas recopier celui de mon code.
+Ensuite, je peux passer à la programmation du bot Discord.
+
+Tout d'abord, le fichier "config.js" contient le token du bot discord, il faut savoir que chaque bot discord possède son propre token, n'allez pas recopier celui de mon code.
+![alt text](https://imagizer.imageshack.com/v2/991x106q70/r/924/eKjGjF.png)
 
 Toutes les slash commands seront dans le dossier "Commandes".
+
+Par exemple, une commande qui me renvoie "hey" quand la commande "/hey" est réalisée
+![alt text](https://imagizer.imageshack.com/v2/375x397q90/r/923/iwDPfi.png)
 
 Le fichier "loadSlashCommands.js" ajoute chaque slash command dans une liste, il défini les différents champs les composants(ex: nom, description, etc...),
 la manière de lire les slash commands, puis il les ajoutent dans la liste.
