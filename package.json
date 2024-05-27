@@ -1,0 +1,16 @@
+{
+  "name": "bot-14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Lacaze",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^2.2.0",
+    "discord.js": "^14.15.2",
+    "fs": "^0.0.1-security"
+  }
+}

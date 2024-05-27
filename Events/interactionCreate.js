@@ -1,0 +1,12 @@
+// Appeler le module "discord.js"
+const Discord = require("discord.js");
+
+module.exports = async (bot, interaction) => {
+
+    if(interaction.type === Discord.InteractionType.ApplicationCommand) {
+
+        // Exécuter une slash command par rapport à son nom
+        let command = require(`../Commandes/${interaction.commandName}`)
+        command.run(bot, interaction, command.options)
+    }
+}
